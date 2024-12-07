@@ -1,4 +1,4 @@
-# Lama Dev School Management Dashboard
+# BLINK School Management Dashboard
 
 ## Getting Started
 
