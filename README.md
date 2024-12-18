@@ -21,5 +21,3 @@ You can start editing the page by modifying `app/page.tsx`. The page auto-update
 
 ## Learn More
 - [Next.js](https://nextjs.org/learn)
-=======
->>>>>>> 554b017d67af2f7591b4a3dab7e6a010f94aea4e
